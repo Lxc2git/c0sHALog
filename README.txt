@@ -4,4 +4,4 @@ CNN&GRU_BGL：Experimental code and partial results of the BGL data.
 CNN&GRU_Thunderbird：Experimental code and partial results of the Thunderbird data.
 Bert-base-cased needs to be downloaded manually from the internet.
 The Thunderbird data can be downloaded from Hugging Face using the Tb_data.py file.
-https://zenodo.org/badge/1099593748.svg
+https://doi.org/10.5281/zenodo.18211711
